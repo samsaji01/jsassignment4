@@ -1,0 +1,52 @@
+#myData {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+.price {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
+
+img {
+    width: 50%;
+}
+
+.margin {
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0);
+    background: radial-gradient(circle, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+body {
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+
+}
+
+#map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 50%;
+    /* The width is the width of the web page */
+
+}

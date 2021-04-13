@@ -1,0 +1,37 @@
+[
+    {
+        "productName": "Bacon-scented mustache",
+        "productCost": "4.07$",
+        "productDescription": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+        "productFeatures": "Bacon fragrance mustache.",
+        "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/51EsgLnGpNL.jpg?w=1200&ssl=1"
+    },
+    {
+        "productName": "Desktop refrigerator",
+        "productCost": "38.00$",
+        "productDescription": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+        "productFeatures": "Cools your drink.",
+        "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/510g-cwJNBL.jpg?w=1200&ssl=1"
+    },
+    {
+        "productName": "Dill pickle lip balm",
+        "productCost": "11.95$",
+        "productDescription": "Some people want their mouths to be minty fresh, or sweetly scented. And others just want their lips to have the distinct flavor of something that might accompany a pastrami sandwich",
+        "productFeatures": "Dil pickle flavoured lip balm.",
+        "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/dill-pickle-lip-balm.jpg?w=1024&ssl=1"
+    },
+    {
+        "productName": "Nicolas Cage sequin pillowcase",
+        "productCost": "24.95$",
+        "productDescription": "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+        "productFeatures": "Nicolas cage is always on your bed.",
+        "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/nicolas-cage-pillow.jpg?w=1024&ssl=1"
+    },
+    {
+        "productName": "bloody bath mat",
+        "productCost": "12.96$",
+        "productDescription": "If you've ever dreamed of turning your bathroom into a scene from a horror movie, you're apparently not alone—and Amazon has the perfect accessory for you.",
+        "productFeatures": "Prank your friends",
+        "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/bloody-bath-mat.jpg?w=1024&ssl=1"
+    }
+]
